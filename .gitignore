@@ -23,6 +23,7 @@
 hs_err_pid*
 replay_pid*
 
+# project1 files
 submission.zip
 input/
 output/
@@ -30,3 +31,7 @@ data/
 duckdb
 *.db
 *.tgz
+
+# random things that i don't want
+*.xml
+*.iml
